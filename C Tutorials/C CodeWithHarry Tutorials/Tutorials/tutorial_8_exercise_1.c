@@ -28,7 +28,7 @@ int main()
     printf("Please enter how long you need to print Multiplication table of %d!\n", number_of_table_you_need_to_print);
     scanf("%d", &how_long_you_need_to_print_table);
 
-    for (int i = 1; i <= how_long_you_need_to_print_table; i++)
+    for (int i = 0; i < how_long_you_need_to_print_table; i++)
     {
         printf("%d X %d = %d\n", number_of_table_you_need_to_print, i, number_of_table_you_need_to_print * i);
     }
