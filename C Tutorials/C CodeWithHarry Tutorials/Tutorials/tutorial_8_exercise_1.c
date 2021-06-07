@@ -30,7 +30,7 @@ int main()
 
     for (int i = 1; i <= how_long_you_need_to_print_table; i++)
     {
-        printf("%d X %d = %d\n", number_of_table_you_need_to_print, i, number_of_table_you_need_to_print * i);
+        printf("%d x %d = %d\n", number_of_table_you_need_to_print, i, number_of_table_you_need_to_print * i);
     }
 
     return 0;
