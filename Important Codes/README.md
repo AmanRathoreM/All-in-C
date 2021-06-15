@@ -1,3 +1,3 @@
 
 # Some Important Codes
-In this directory i had
+In this directory I had
