@@ -1,5 +1,5 @@
 <h1 style="text-align:center; font-size:360%; font-family:verdana;color:#4A3E76;"><em>C Tutorials</em></h1>
-===================================================================================================================================
+
 # These tutorials are watched from [**_codewithharry_**](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww "Clike here to checkout his channel") YouTube channel from [**_C Tutorial Playlist_**](https://youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR "Clike here to check out his C Tutorial Playlist")
 ---
 ---
