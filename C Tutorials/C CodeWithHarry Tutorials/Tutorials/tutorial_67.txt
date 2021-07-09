@@ -1,0 +1,30 @@
+This is my file line 1
+This is my file line 2
+This is my file line 3
+This is my file line 4
+a
+b
+c
+d
+e
+This line is appended using C programe and,
+The data is = Jul  9 2021 and time is = 11:46:14.
+
+This line is appended using C programe and,
+The data is = Jul  9 2021 and time is = 11:46:17.
+
+This line is appended using C programe and,
+The data is = Jul  9 2021 and time is = 11:46:19.
+
+This line is appended using C programe and,
+The data is = Jul  9 2021 and time is = 11:46:20.
+
+This line is appended using C programe and,
+The data is = Jul  9 2021 and time is = 11:46:21.
+
+This line is appended using C programe and,
+The data is = Jul  9 2021 and time is = 11:46:49.
+
+This line is appended using C programe and,
+The data is = Jul  9 2021 and time is = 11:46:51.
+
