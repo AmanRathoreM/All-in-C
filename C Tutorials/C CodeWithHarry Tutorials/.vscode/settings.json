@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "_mingw.h": "c",
+        "string.h": "c",
+        "cstdio": "c",
+        "cwchar": "c",
+        "type_traits": "c",
+        "typeinfo": "c",
+        "stdlib.h": "c",
+        "time.h": "c"
+    }
+}
