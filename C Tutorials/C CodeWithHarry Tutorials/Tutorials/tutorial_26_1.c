@@ -10,7 +10,7 @@ int main()
     printf("The value of \'a\' is %d\n", a);
     printf("The value of \'&a\' is %x\n", &a);
     printf("The value of \'pointer_of_a\' is %x\n", pointer_of_a);
-    printf("The value of \'*pointer_of_a\' is %x\n", *pointer_of_a);
+    printf("The value of \'*pointer_of_a\' is %d\n", *pointer_of_a);
     printf("The value of \'&pointer_of_a\' is %x\n", &pointer_of_a);
     printf("The size of \'pointer_of_a\' is %d\n", sizeof(pointer_of_a));
     // printf("The size of \'pointer_of_a\' is %d\n", sizeof(int *));
